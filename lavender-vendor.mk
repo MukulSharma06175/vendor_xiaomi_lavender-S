@@ -1825,4 +1825,5 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     WfdCommon \
     manifest_android.hardware.drm@1.2-service.widevine \
-    vendor.qti.gnss@3.0-service
+    vendor.qti.gnss@3.0-service \
+    chargeonlymode
