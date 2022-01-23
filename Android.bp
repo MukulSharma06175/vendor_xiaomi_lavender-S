@@ -20,6 +20,7 @@ soong_namespace {
 }
 
 cc_prebuilt_library_shared {
+<<<<<<< HEAD
 	name: "libgpustats",
 	owner: "xiaomi",
 	strip: {
@@ -60,6 +61,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
+=======
+>>>>>>> e614cfd (lavender: Update blobs from S62Pro RKQ1.210406.002)
 	name: "libthermalclient",
 	owner: "xiaomi",
 	strip: {
